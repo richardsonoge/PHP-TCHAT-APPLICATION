@@ -1,0 +1,3 @@
+<?php
+
+define('WEBSITE_NAME', 'PHP AJAX CHAT APPLICATION');
